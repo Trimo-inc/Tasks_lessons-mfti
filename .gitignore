@@ -1,0 +1,5 @@
+.*
+!.gitignore
+!.github
+Practics_c/out/
+Practics_cpp/out
